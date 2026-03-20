@@ -39,8 +39,8 @@ export ANTHROPIC_API_KEY=sk-ant-YOUR_KEY_HERE
 python main.py
 ```
 
-✅ API running at http://localhost:8000
-✅ Docs at http://localhost:8000/docs
+ API running at http://localhost:8000
+ Docs at http://localhost:8000/docs
 
 ### Step 2 — Frontend
 
@@ -50,7 +50,7 @@ npm install
 npm run dev
 ```
 
-✅ App running at http://localhost:5173
+ App running at http://localhost:5173
 
 ### Step 3 — Open Browser
 
@@ -76,12 +76,12 @@ sudo apt install iverilog
 
 | Agent                | What it does                                         |
 | -------------------- | ---------------------------------------------------- |
-| 📋 Verification Plan | Analyzes RTL → structured P0/P1/P2 test groups       |
-| 🔮 Failure Predictor | Historical DB + AI → predicts bugs before sim        |
-| ⚙️ Testbench Writer  | Full SystemVerilog TB with assertions + coverage     |
-| ▶️ Simulation Engine | Runs iverilog or AI-simulates, extracts PASS/FAIL    |
-| 📊 Coverage AI       | Grades coverage, finds holes, prioritizes next steps |
-| 🔧 Debug & Fix       | Root cause + fixed RTL + enhanced testbench          |
+|  Verification Plan | Analyzes RTL → structured P0/P1/P2 test groups       |
+|  Failure Predictor | Historical DB + AI → predicts bugs before sim        |
+|  Testbench Writer  | Full SystemVerilog TB with assertions + coverage     |
+|  Simulation Engine | Runs iverilog or AI-simulates, extracts PASS/FAIL    |
+|  Coverage AI       | Grades coverage, finds holes, prioritises next steps |
+|  Debug & Fix       | Root cause + fixed RTL + enhanced testbench          |
 
 ---
 
